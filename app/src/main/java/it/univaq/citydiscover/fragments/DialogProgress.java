@@ -1,4 +1,4 @@
-package it.univaq.citydiscover.fragments;
+/*package it.univaq.citydiscover.fragments;
 
 import android.app.Dialog;
 import android.os.Bundle;
@@ -40,4 +40,4 @@ public class DialogProgress extends DialogFragment {
             textView.setText(text);
         }
     }
-}
+}*/
